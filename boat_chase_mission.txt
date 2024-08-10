@@ -1,0 +1,1 @@
+This is a boat chase mission.  The winner is supposed to destroy all other boats and reach a destination.
